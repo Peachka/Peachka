@@ -3,6 +3,5 @@
 <code> [Skills](SKILLS.md)</code>
 <code> [Projects](PROJECTS.md)</code>
 <code>🧑‍💻 Languages: Python, Java</code>
-<code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@tafete](https://telegram.me/tafete)</code>
 <code>📫 [podcolodnik@gmail.com](mailto:podcolodnik@gmail.com)</code>
